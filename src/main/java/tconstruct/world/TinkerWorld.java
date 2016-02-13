@@ -486,21 +486,13 @@ public class TinkerWorld
         OreDictionary.registerOre("blockSteel", new ItemStack(TinkerWorld.metalBlock, 1, 9));
         OreDictionary.registerOre("blockEnder", new ItemStack(TinkerWorld.metalBlock, 1, 10));
 
-        OreDictionary.registerOre("nuggetIron", new ItemStack(TinkerWorld.oreBerries, 1, 0));
-        OreDictionary.registerOre("nuggetCopper", new ItemStack(TinkerWorld.oreBerries, 1, 2));
-        OreDictionary.registerOre("nuggetTin", new ItemStack(TinkerWorld.oreBerries, 1, 3));
-        OreDictionary.registerOre("nuggetAluminum", new ItemStack(TinkerWorld.oreBerries, 1, 4));
-        OreDictionary.registerOre("nuggetAluminium", new ItemStack(TinkerWorld.oreBerries, 1, 4));
-        OreDictionary.registerOre("nuggetGold", new ItemStack(TinkerWorld.oreBerries, 1, 1));
-
-        // also register berries as berries. durr
         OreDictionary.registerOre("oreberryIron", new ItemStack(TinkerWorld.oreBerries, 1, 0));
         OreDictionary.registerOre("oreberryCopper", new ItemStack(TinkerWorld.oreBerries, 1, 2));
         OreDictionary.registerOre("oreberryTin", new ItemStack(TinkerWorld.oreBerries, 1, 3));
         OreDictionary.registerOre("oreberryAluminum", new ItemStack(TinkerWorld.oreBerries, 1, 4));
         OreDictionary.registerOre("oreberryAluminium", new ItemStack(TinkerWorld.oreBerries, 1, 4));
         OreDictionary.registerOre("oreberryGold", new ItemStack(TinkerWorld.oreBerries, 1, 1));
-        OreDictionary.registerOre("oreberryEssence", new ItemStack(TinkerWorld.oreBerries, 1, 1));
+        OreDictionary.registerOre("oreberryEssence", new ItemStack(TinkerWorld.oreBerries, 1, 5));
 
         OreDictionary.registerOre("orebushIron", new ItemStack(TinkerWorld.oreBerry, 1, 0));
         OreDictionary.registerOre("orebushGold", new ItemStack(TinkerWorld.oreBerry, 1, 1));
